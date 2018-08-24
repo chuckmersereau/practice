@@ -6,8 +6,10 @@ i = 1
 y = 2
 z = 0
 
-# adding a comment to see which rep
+# adding a comment to see which repo
 # the updates push to
+
+# checking the repo again
 
 while i < 10:
     x += i
