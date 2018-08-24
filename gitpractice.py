@@ -21,6 +21,7 @@ x = x + y
 print(x)
 
 a = 15
+a = 10
 
 x = x * z
 print(x)
