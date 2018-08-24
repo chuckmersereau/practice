@@ -5,6 +5,7 @@ x = 5
 i = 1
 y = 2
 z = 0
+a = 20
 
 # a comment for testing
 # another comment for testing
@@ -20,4 +21,7 @@ x = x + y
 print(x)
 
 x = x * z
+print(x)
+
+x = a
 print(x)
