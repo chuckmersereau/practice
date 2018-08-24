@@ -7,6 +7,7 @@ y = 2
 z = 0
 
 # a comment for testing
+# another comment for testing
 
 while i < 10:
     x += i
