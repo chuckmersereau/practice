@@ -7,9 +7,6 @@ y = 100
 z = 0
 a = 20
 
-# a comment for testing
-# another comment for testing
-# adding another comment soon to be removed
 
 while i < 10:
     x += i
