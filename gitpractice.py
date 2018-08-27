@@ -31,3 +31,5 @@ print(x)
 
 x = 2000
 print(x)
+
+# f is for friends that do stuff together
