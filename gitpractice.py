@@ -21,5 +21,5 @@ print(x)
 x = x + y
 print(x)
 
-x = x * z
+x = x / z
 print(x)
