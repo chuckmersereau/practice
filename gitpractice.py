@@ -28,3 +28,6 @@ x = x / z
 print(x)
 
 #holla
+
+x = 2000
+print(x)
