@@ -18,11 +18,19 @@ print(x)
 x = x + y
 print(x)
 
-x = x * z
+x = x * z + 10
 print(x)
 
 x = a
 print(x)
 
+<<<<<<< HEAD
 # adding new stuff to try to rebase
 # another commeint for rebase
+=======
+# a different comment for rebasing
+
+x = 116
+print(x)
+print("I'm unashamed")
+>>>>>>> unashamed
