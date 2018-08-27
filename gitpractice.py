@@ -1,5 +1,7 @@
 # I am the Master Branch
 
+ptint "Nick Rens"
+
 x = 5
 i = 1
 y = 2
@@ -20,9 +22,13 @@ print(x)
 x = x + y
 print(x)
 
+<<<<<<< HEAD
 #new comment
 
 
 x = x / z + 2
 
+=======
+x = x / z
+>>>>>>> print
 print(x)
