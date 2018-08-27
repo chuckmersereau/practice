@@ -22,15 +22,9 @@ print(x)
 x = x + y
 print(x)
 
-<<<<<<< HEAD
 #new comment
 
-
-x = x / z + 2
-
-=======
 x = x / z
->>>>>>> print
 print(x)
 
 #holla
