@@ -22,5 +22,5 @@ print(x)
 
 #new comment
 
-x = x / z
+x = 2
 print(x)
